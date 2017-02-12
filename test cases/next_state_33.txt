@@ -1,0 +1,5 @@
+X*XX*
+O*XOX
+***O*
+**OOX
+*OO*O
